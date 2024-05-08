@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 prueba de token
 
+=======
+prueba de token
+
+>>>>>>> 0f83acdcef68e236f6d18fd9a5ed1262235e1426
 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
